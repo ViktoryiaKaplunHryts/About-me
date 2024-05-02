@@ -35,6 +35,7 @@ _________________________________________________________________________
     
    - [коллекция 1](https://www.postman.com/martian-space-106676/workspace/y-lab/collection/29626994-da7eaa73-eca1-4f4b-85e1-280afc715390?action=share&creator=29626994)
    - [коллекция 2](https://elements.getpostman.com/redirect?entityId=29626994-5381b1aa-c728-46bf-a055-0e4dedd004a5&entityType=collection)
+   - [коллекция 3](https://www.postman.com/martian-space-106676/workspace/gorest-co-in/collection/29626994-9217f120-3028-451d-b75d-092da3873f83?action=share&source=copy-link&creator=29626994)
 
 ✔  [SQL - запросы ](https://github.com/ViktoryiaKaplunHryts/SQL)
   
